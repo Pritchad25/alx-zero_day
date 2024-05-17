@@ -4,7 +4,7 @@ This repository contains programs for the Introduction to Full-Stack Software En
 
 | Project | Description |
 | ------- | ----------- |
-| 0x03-git | Introduction To Full-Stack Software Engineering |
+| [0x03-git](0x03-git/) | Introduction To Full-Stack Software Engineering |
 
 # Author
-- Pritchard Ncube - <a name="https://github.com/Pritchad25">Pritchad25</a>
+- Pritchard Ncube - [Pritchad25](https://github.com/Pritchad25)
